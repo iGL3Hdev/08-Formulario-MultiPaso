@@ -50,6 +50,10 @@ form input{
 }
 
 ::placeholder{
+    color: #777;
+}
+
+.btn-box{
     width: 100%;
     margin: 30px auto;
     text-align: center;
@@ -90,7 +94,7 @@ form button{
 .step-col{
     width: 120px;
     text-align: center;
-    color:#333;
+    color: #333;
     position: relative;
 }
 
